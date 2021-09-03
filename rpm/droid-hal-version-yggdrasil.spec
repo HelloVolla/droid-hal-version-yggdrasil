@@ -1,8 +1,8 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device GS290
-%define rpm_device gs290
-%define vendor gigaset
+%define device yggdrasil
+%define rpm_device yggdrasil
+%define vendor volla
 
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Volla
